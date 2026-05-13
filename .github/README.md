@@ -9,18 +9,17 @@ Atuo com desenvolvimento full-stack, projetos mobile em Flutter e integração d
 ## 🎓 Formação
 
 - Bacharel em Ciência da Computação — Unochapecó
-- Pós-graduação em andamento em Arquitetura de Software — PUCPR
-- Pós-graduação em andamento em Cybersecurity — PUCPR
-- Pós-graduação em andamento em Ciência de Dados — PUCPR
+- Pós-graduação em andamento em Arquitetura de Software, Cybersecurity e Ciência de Dados — PUCPR
 - Cursos complementares em Python, Machine Learning, Neural Networks, Flutter, Android e desenvolvimento web avançado
 
 ## 🧭 Especialidades
 
-- Desenvolvimento web: React, Vue, Next.js, Node.js
-- Desenvolvimento mobile: Flutter, Android
-- Infraestrutura: Docker, Kubernetes, CI/CD
-- Integração de sistemas: APIs, microserviços, GraphQL
+- Desenvolvimento web: Vue, Quasar, Node.js (nest.js), PHP.
+- Desenvolvimento mobile: Flutter (Android e iOS)
+- Infraestrutura: Docker, Firebase
+- Integração de sistemas: APIs, microserviços
 - Arquitetura de software: padrões de projeto, clean code
+- Outros: PHP, JavaScript, Typescript, Golang, Python. 
 
 ---
 
