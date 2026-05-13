@@ -2,8 +2,8 @@
 
 > Desenvolvedor de sistemas especializado em arquitetura de software, soluções web e mobile.
 
-[![GitHub followers](https://img.shields.io/github/followers/rafaelscariotcontato?style=social)](https://github.com/rafaelscariotcontato)
-[![GitHub stars](https://img.shields.io/github/stars/rafaelscariotcontato?style=social)](https://github.com/rafaelscariotcontato)
+[![GitHub followers](https://img.shields.io/github/followers/rafaelscariotdev?style=social)](https://github.com/rafaelscariotdev)
+[![GitHub stars](https://img.shields.io/github/stars/rafaelscariotdev?style=social)](https://github.com/rafaelscariotdev)
 
 ---
 
@@ -72,9 +72,9 @@ Sou desenvolvedor de sistemas com experiência em soluções web, mobile e integ
 
 ## 📊 Métricas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelscariotcontato&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelscariotdev&theme=dark&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscariotcontato&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscariotdev&layout=compact&theme=dark)
 
 ---
 
