@@ -55,10 +55,10 @@ Atuo com desenvolvimento full-stack, projetos mobile em Flutter e integração d
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rafaelscariotcontato&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rafaelscariotdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelscariotcontato&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelscariotdev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
 </table>
@@ -78,12 +78,7 @@ Atuo com desenvolvimento full-stack, projetos mobile em Flutter e integração d
 
 Os dados abaixo devem ser atualizados manualmente:
 
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
-- Portfólio: [Seu Site](https://seu-site.com)
+- LinkedIn: [Rafael Scariot](https://linkedin.com/in/rafael-scariot)
+- Email: rafaelscariot.contato@gmail.com
+- Portfólio: [Temporariamente indisponível](https://google.com)
 
----
-
-## ⭐ Nota
-
-Se algum projeto chamar sua atenção, deixe uma estrela. Isso ajuda a manter a produção de conteúdo de qualidade.
